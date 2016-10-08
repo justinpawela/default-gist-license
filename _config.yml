@@ -1,0 +1,10 @@
+title: Default Gist License
+description: >
+  Default license for my public Gists, unless a specific Gist indicates otherwise.
+baseurl: "/default-gist-license" # the subpath of your site, e.g. /blog
+url: "https://justinpawela.github.io" # the base hostname & protocol for your site
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
